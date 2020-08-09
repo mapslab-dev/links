@@ -9,7 +9,9 @@ https://www.digitalocean.com/community/tutorials/how-to-use-winston-to-log-node-
 
 https://github.com/icebob/vue-express-mongo-boilerplate
 
+-- low quality
 https://medium.com/@albinjose/create-a-crud-app-using-vue-js-and-node-js-mevn-stack-5410680450e4
+
 
 https://mead.io/
 
